@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TflApp.Console", "TflApp.Console\TflApp.Console.csproj", "{CE705833-AB04-43E4-91CB-AF3672F80FD3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TflApp.Tests", "TflApp.Tests\TflApp.Tests.csproj", "{6538F7A5-C2BF-402F-AE16-076F7DAE3507}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE705833-AB04-43E4-91CB-AF3672F80FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE705833-AB04-43E4-91CB-AF3672F80FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE705833-AB04-43E4-91CB-AF3672F80FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE705833-AB04-43E4-91CB-AF3672F80FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6538F7A5-C2BF-402F-AE16-076F7DAE3507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6538F7A5-C2BF-402F-AE16-076F7DAE3507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6538F7A5-C2BF-402F-AE16-076F7DAE3507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6538F7A5-C2BF-402F-AE16-076F7DAE3507}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67CCDF5E-9F13-4274-A47F-DFEB9D022851}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://opendoorstechnology.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TflApp.Console\\TflApp.Console.csproj
+		SccProjectName1 = TflApp.Console
+		SccLocalPath1 = TflApp.Console
+		SccProjectUniqueName2 = TflApp.Tests\\TflApp.Tests.csproj
+		SccProjectName2 = TflApp.Tests
+		SccLocalPath2 = TflApp.Tests
+	EndGlobalSection
+EndGlobal

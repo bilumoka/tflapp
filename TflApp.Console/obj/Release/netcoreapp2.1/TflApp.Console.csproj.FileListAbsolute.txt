@@ -1,0 +1,12 @@
+C:\Projects\OpenDoorsTechnology\tflApp\TflApp\TflApp.Console\bin\Release\netcoreapp2.1\AppSettings.json
+C:\Projects\OpenDoorsTechnology\tflApp\TflApp\TflApp.Console\bin\Release\netcoreapp2.1\TflApp.Console.deps.json
+C:\Projects\OpenDoorsTechnology\tflApp\TflApp\TflApp.Console\bin\Release\netcoreapp2.1\TflApp.Console.runtimeconfig.json
+C:\Projects\OpenDoorsTechnology\tflApp\TflApp\TflApp.Console\bin\Release\netcoreapp2.1\TflApp.Console.runtimeconfig.dev.json
+C:\Projects\OpenDoorsTechnology\tflApp\TflApp\TflApp.Console\bin\Release\netcoreapp2.1\TflApp.Console.dll
+C:\Projects\OpenDoorsTechnology\tflApp\TflApp\TflApp.Console\bin\Release\netcoreapp2.1\TflApp.Console.pdb
+C:\Projects\OpenDoorsTechnology\tflApp\TflApp\TflApp.Console\obj\Release\netcoreapp2.1\TflApp.Console.csprojAssemblyReference.cache
+C:\Projects\OpenDoorsTechnology\tflApp\TflApp\TflApp.Console\obj\Release\netcoreapp2.1\TflApp.Console.csproj.CoreCompileInputs.cache
+C:\Projects\OpenDoorsTechnology\tflApp\TflApp\TflApp.Console\obj\Release\netcoreapp2.1\TflApp.Console.AssemblyInfoInputs.cache
+C:\Projects\OpenDoorsTechnology\tflApp\TflApp\TflApp.Console\obj\Release\netcoreapp2.1\TflApp.Console.AssemblyInfo.cs
+C:\Projects\OpenDoorsTechnology\tflApp\TflApp\TflApp.Console\obj\Release\netcoreapp2.1\TflApp.Console.dll
+C:\Projects\OpenDoorsTechnology\tflApp\TflApp\TflApp.Console\obj\Release\netcoreapp2.1\TflApp.Console.pdb
