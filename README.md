@@ -6,7 +6,7 @@ This is a .net core 2.1 console application used to retrieve and display the tra
 
 ### System Requirements
 
-Make sure that the dotnet cli, dotnet sdk and dotnet runtime are installed on your pc.
+Make sure that the dotnet core cli, dotnet core sdk and dotnet core runtime are installed on your pc. See this [link](https://docs.microsoft.com/en-us/dotnet/core/windows-prerequisites?tabs=netcore21#prerequisites-with-visual-studio-2017).
 
 ### Download
 
@@ -73,3 +73,8 @@ Navigate into the project folder TflApp.Tests from command propmpt. Then run the
 Dotnet test.
 
 The above command will run all the unit tests in the TflApp.Tests.
+
+
+# Visual Studio.
+
+Alternatively, the publishing and  and ruuning of unit tests can be done through visual studio.
