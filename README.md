@@ -4,6 +4,12 @@ This is a .net core 2.1 console application used to retrieve and display the tra
 
 # Getting Started
 
+### System Requirements
+
+Make sure that the dotnet cli, dotnet sdk and dotnet runtime are installed on your pc.
+
+### Download
+
 Download the solution from the  git hub page and place the folder containg the app anywhere on your pc.
 The root folder is called  'tflapp-master'. In the folder there are two projects folders. 
   - TflApp.Console
