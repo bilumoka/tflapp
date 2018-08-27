@@ -11,7 +11,7 @@ Make sure that the dotnet cli, dotnet sdk and dotnet runtime are installed on yo
 ### Download
 
 Download the solution from the  git hub page and place the folder containg the app anywhere on your pc.
-The root folder is called  'tflapp-master'. In the folder there are two projects folders. 
+The root folder is called 'tflapp-master', go into that folder and you will find another folder called 'tflapp-master' as well. Then, in that folder there are two projects folders. 
   - TflApp.Console
   - TflApp.Tests
 
