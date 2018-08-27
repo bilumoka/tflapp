@@ -77,4 +77,6 @@ The above command will run all the unit tests in the TflApp.Tests.
 
 # Visual Studio.
 
-Alternatively, the publishing and  and ruuning of unit tests can be done through visual studio.
+Alternatively, the publishing and  and ruuning of unit tests can be done through visual studio. See the links below.
+
+[Publishing with visual studio](https://docs.microsoft.com/en-us/dotnet/core/deploying/deploy-with-vs#self-contained-deployment-with-third-party-dependencies)
